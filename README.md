@@ -1,2 +1,2 @@
-# android_build_scripts_and_tools
-Android build scripts and tools
+# Android build scripts and tools
+Original by ShelbyHell (big thanks)
